@@ -13,3 +13,6 @@
 ##### This is H5 header.
 
 ###### This is H6 header.
+
+# Adding images
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
